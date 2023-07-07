@@ -11,6 +11,9 @@
 .mtj.tmp/
 
 # Package Files #
+*.idea
+project_chess_game.iml
+out
 *.jar
 *.war
 *.nar
